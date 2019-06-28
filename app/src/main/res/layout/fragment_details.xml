@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a16866099_5.taller3_fa.Fragments.DetailsFragment">
+
+    <TextView
+        android:id="@+id/textViewDetails"
+        android:layout_width="match_parent"
+        android:layout_height="154dp"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/textViewTo"
+        android:layout_width="match_parent"
+        android:layout_height="325dp"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/textViewFrom"
+        android:layout_width="match_parent"
+        android:layout_height="242dp"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/textViewBody"
+        android:layout_width="match_parent"
+        android:layout_height="122dp"
+        android:layout_gravity="center" />
+
+</FrameLayout>
